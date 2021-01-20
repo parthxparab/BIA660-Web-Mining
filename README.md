@@ -1,5 +1,11 @@
 # BIA660-Web-Mining
-BIA 660: Web Mining taken at Stevens Institute of Technology for Fall 2019
+BIA 660 Web Mining & Analytics taught by Professor Emily Liu Rong at Stevens Institute of Technology for Fall 2019
+
+CS 554 Web Programming II taught by Professor Patrick Hill at Stevens Institute of Technology for Spring 2020
+
+Technologies Used - Pandas, NumPy, SciPy, Keras, Tensorflow, Sci-kit learn, Matplotlib, Seaborn, BeautifulSoup, Selenium, Regex
+
+**Final Grade: A**
 
 Course Description:
 
